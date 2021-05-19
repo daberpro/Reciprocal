@@ -28,5 +28,8 @@ let array2 = [{
   id: null
 }];
 
-let hasil = Reciprocal(array1,array2);
+let hasil = Reciprocal(array1,array2,"id from a to b");
 ```
+
+## penjelasan
+di atas kita memiliki 2 buah array yaitu array1 dan array2 jika kita ingin array 1 dan 2 salin timbal balik maka kita harus memberikan suatu query yaitu "id from a to b" di mana "id" merupakan nama property yang akan di ubah sedangkan "from a to b" berarti kita menimbal balikan dari array yang berada di parameter pertama ke array yang ada di parameter ke 2
