@@ -5,7 +5,8 @@ nilai property yang beda dan ini merupakan suatu masalah yang di temukan pada se
 
 ## prinsip dan pemecahan masalah
 untuk mengatasi hal ini saya membuat algoritma yang di sebut Reciprocal atau timbal balik yaitu suatu algoritma yang mampu mencari kemiripan dari 2 buah array of object dan akan di lakukan pertukaran data dari array yang akan di ubah dengan array yang mengubah, algoritma ini menggunakan bentuk query berupa teks yaitu 
-## contoh ```sql
+### contoh 
+```sql
 porperty from a to b
 ```
 
